@@ -1,7 +1,7 @@
 #git aliases
 alias push='git push origin HEAD'
 alias branch='git switch -c'
-alias commit='git commit -m'
+alias commit='git commit -am'
 
 #log parsing
 alias askd='ask lsutil -d'
