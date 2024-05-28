@@ -12,6 +12,5 @@ alias ssh='ssh-rtkpak'
 
 #shortcuts
 alias aliases='vim ~/.bash_aliases'
-alias upali='cd ~/bastion_aliases && git pull &&  cp .bash_aliases ../.bash_aliases'
 alias update='mkvc -rcf'
 alias deploy="cd volatile_configs/deployments"
