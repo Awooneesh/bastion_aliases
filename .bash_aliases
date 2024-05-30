@@ -1,6 +1,6 @@
 #git aliases
 alias push='git push origin HEAD'
-alias branch='git switch -c'
+alias branch='git switch master && git switch -c'
 alias commit='git commit -am'
 
 #log parsing
