@@ -14,3 +14,4 @@ alias ssh='ssh-rtkpak'
 alias aliases='vim ~/.bash_aliases'
 alias update='mkvc -rcf'
 alias deploy="cd ~/volatile_configs/deployments"
+alias chkout="cat ~/output.txt | grep "
